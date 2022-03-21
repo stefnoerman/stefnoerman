@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefnoerman
-- 👀 I’m interested in variations in response to diet and the determinants, to develop personalized nutrition
-- 🌱 I’m currently learning computation metabolomics approach on dietary and metadata
-- 💞️ I’m looking to collaborate on disentangling the multidimensional aspects of nutrition and health
+- 👀 I’m interested in interindividual-variations in response to diet and the determinants, to develop personalized approaches to nutrition
+- 🌱 I’m currently learning computational metabolomics approach on dietary and metadata
+- 💞️ I’m looking to collaborate to disentangle the complexities and multidimensional aspects in the intersect between nutrition and health
 - 📫 How to reach me: leave a message at noerman@chalmers.se
 
 <!---
